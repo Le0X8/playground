@@ -16,6 +16,6 @@ jobs:
       - uses: dtolnay/rust-toolchain@stable
         with:
           components: rustfmt
-      - uses: mbrobbel/rustfmt-check@master
+      - uses: Le0X8/rustfmt-check@master
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
