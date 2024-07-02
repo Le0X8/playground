@@ -19,3 +19,4 @@ jobs:
       - uses: Le0X8/rustfmt-check@master
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
+          mode: pull
