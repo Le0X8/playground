@@ -1,9 +1,5 @@
-fn main() {
-    println!("Hello, world!");
-    unformatted();
-}
-
-fn unformatted(
+fn main(){println!("Hello, world!");unformatted();
+}     fn unformatted(
 
     
 ) {println!(
