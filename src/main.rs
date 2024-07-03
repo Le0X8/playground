@@ -5,4 +5,8 @@ fn main() {
 
 fn unformatted(
 
-){println!("pls autoformat this correctly");}
+
+){println!(
+"pls autoformat this correctly")
+;
+}
