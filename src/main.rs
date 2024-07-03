@@ -3,6 +3,8 @@ fn main() {
     unformatted();
 }
 
-fn unformatted() {
-    println!("pls autoformat this correctly");
-}
+fn unformatted(
+
+    
+) {println!(
+    "pls autoformat this correctly");}
